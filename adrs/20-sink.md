@@ -1,4 +1,4 @@
-# ADR 01: Sink Selection - Vessel Sink Compatible with Regular Faucets
+# ADR 20: Sink Selection - Vessel Sink Compatible with Regular Faucets
 
 ## Status
 Accepted

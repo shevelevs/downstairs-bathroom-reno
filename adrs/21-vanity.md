@@ -1,4 +1,4 @@
-# ADR 02: Vanity Selection - Offset Design with Toekick
+# ADR 21: Vanity Selection - Offset Design with Toekick
 
 ## Status
 Accepted
