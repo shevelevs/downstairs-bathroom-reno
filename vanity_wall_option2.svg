@@ -59,11 +59,11 @@
   <text x="13.25" y="78.75" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#333">Large Drawers</text>
   <text x="33.25" y="78.75" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#333">Small Drawers</text>
   
-  <!-- Wall height dimension (left side) -->
-  <line x1="-3" y1="0" x2="-3" y2="96" stroke="#000" stroke-width="0.3"/>
-  <line x1="-2" y1="0" x2="-4" y2="0" stroke="#000" stroke-width="0.3"/>
-  <line x1="-2" y1="96" x2="-4" y2="96" stroke="#000" stroke-width="0.3"/>
-  <text x="-6" y="48" font-family="Arial, sans-serif" font-size="3" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 -6 48)">96" (8')</text>
+  <!-- Wall height dimension (left side, leftmost) -->
+  <line x1="-13" y1="0" x2="-13" y2="96" stroke="#000" stroke-width="0.3"/>
+  <line x1="-12" y1="0" x2="-14" y2="0" stroke="#000" stroke-width="0.3"/>
+  <line x1="-12" y1="96" x2="-14" y2="96" stroke="#000" stroke-width="0.3"/>
+  <text x="-16" y="48" font-family="Arial, sans-serif" font-size="3" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 -16 48)">96" (8')</text>
   
   <!-- Backsplash height dimension (left side, with diagonal lines) -->
   <line x1="-8" y1="52" x2="-8" y2="58" stroke="#000" stroke-width="0.3"/>
@@ -74,13 +74,15 @@
   <line x1="0" y1="60.25" x2="-8" y2="58" stroke="#000" stroke-width="0.2" stroke-dasharray="1,1"/>
   <text x="-11" y="55" font-family="Arial, sans-serif" font-size="2.2" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 -11 55)">10"</text>
   
-  <!-- Faucet height dimension (left side, with diagonal lines) -->
-  <line x1="1" y1="48.5" x2="1" y2="55.5" stroke="#000" stroke-width="0.25"/>
-  <line x1="0.5" y1="48.5" x2="1.5" y2="48.5" stroke="#000" stroke-width="0.25"/>
-  <line x1="0.5" y1="55.5" x2="1.5" y2="55.5" stroke="#000" stroke-width="0.25"/>
+  <!-- Faucet height dimension (just right of faucet, with diagonal lines) -->
+  <line x1="17" y1="48.5" x2="17" y2="55.5" stroke="#000" stroke-width="0.25"/>
+  <line x1="16.5" y1="48.5" x2="17.5" y2="48.5" stroke="#000" stroke-width="0.25"/>
+  <line x1="16.5" y1="55.5" x2="17.5" y2="55.5" stroke="#000" stroke-width="0.25"/>
   <!-- Diagonal line connecting to faucet top -->
-  <line x1="13.25" y1="48.5" x2="1" y2="48.5" stroke="#000" stroke-width="0.15" stroke-dasharray="1,1"/>
-  <text x="-1" y="52" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 -1 52)">7"</text>
+  <line x1="13.25" y1="48.5" x2="17" y2="48.5" stroke="#000" stroke-width="0.15" stroke-dasharray="1,1"/>
+  <!-- Diagonal line connecting to faucet base on sink -->
+  <line x1="13.25" y1="55.5" x2="17" y2="55.5" stroke="#000" stroke-width="0.15" stroke-dasharray="1,1"/>
+  <text x="19" y="52" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 19 52)">7"</text>
   
   <!-- Mirror height dimension (left side) -->
   <line x1="-3" y1="13.25" x2="-3" y2="49.25" stroke="#000" stroke-width="0.3"/>
