@@ -59,6 +59,12 @@
   <text x="13.25" y="78.75" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#333">Large Drawers</text>
   <text x="33.25" y="78.75" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#333">Small Drawers</text>
   
+  <!-- Component labels -->
+  <text x="21" y="30" font-family="Arial, sans-serif" font-size="3" text-anchor="middle" fill="#0066cc" font-weight="bold">MIRROR</text>
+  <text x="10" y="54" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#666" font-weight="bold">BACKSPLASH</text>
+  <text x="13.25" y="58.5" font-family="Arial, sans-serif" font-size="1.8" text-anchor="middle" fill="#006699" font-weight="bold">SINK</text>
+  <text x="21" y="88" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#8b7355" font-weight="bold">VANITY</text>
+  
   <!-- Wall height dimension (left side, leftmost) -->
   <line x1="-13" y1="0" x2="-13" y2="96" stroke="#000" stroke-width="0.3"/>
   <line x1="-12" y1="0" x2="-14" y2="0" stroke="#000" stroke-width="0.3"/>
