@@ -1,0 +1,13 @@
+Make a rendering of the vanity in the corner according to the attached architectural drawings
+and photos of the actual components/materials. 
+
+Make sure to
+
+* take into account all dimensions, alignments etc.
+* use the actual components from the respective photos, for example do not try to change the
+  vanity by adding more drawers than present in the photos
+
+Note that the sink is a vessel sink, and it is not centered over the vanity,
+it is centered over the left side of it (over the "large drawers").
+
+You can pick wall colors as they are not known yet and are not in the photos.

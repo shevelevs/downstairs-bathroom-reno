@@ -1,0 +1,88 @@
+<svg viewBox="-5 -5 80 65" xmlns="http://www.w3.org/2000/svg" style="border: 1px solid #ccc; background: white;">
+  
+  <!-- Title -->
+  <text x="34.5" y="-2" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#333" font-weight="bold">Countertop Material Cutting Plan</text>
+  
+  <!-- Material outline (69" wide × 54" tall) -->
+  <rect x="0" y="0" width="69" height="54" 
+        fill="#f5f5dc" stroke="#333" stroke-width="0.5" opacity="0.3"/>
+  
+  <!-- Material dimensions -->
+  <text x="34.5" y="2.5" font-family="Arial, sans-serif" font-size="1.8" text-anchor="middle" fill="#666" font-style="italic">69" × 54" Material Sheet</text>
+  
+  <!-- Piece 1: Countertop (22" tall × 42" wide) -->
+  <rect x="0" y="0" width="42" height="22" 
+        fill="#8FBC8F" stroke="#333" stroke-width="0.4" opacity="0.7"/>
+  <text x="21" y="10" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#000" font-weight="bold">COUNTERTOP</text>
+  <text x="21" y="13.5" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000">42" × 22"</text>
+  
+  <!-- Piece 2: Back Backsplash (10" tall × 42" wide) -->
+  <rect x="0" y="22" width="42" height="10" 
+        fill="#87CEEB" stroke="#333" stroke-width="0.4" opacity="0.7"/>
+  <text x="21" y="26.5" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#000" font-weight="bold">BACK BACKSPLASH</text>
+  <text x="21" y="29.5" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000">42" × 10"</text>
+  
+  <!-- Piece 3: Left Side Backsplash (22" wide × 10" tall) -->
+  <rect x="0" y="32" width="22" height="10" 
+        fill="#DDA0DD" stroke="#333" stroke-width="0.4" opacity="0.7"/>
+  <text x="11" y="36.5" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000" font-weight="bold">LEFT BACKSPLASH</text>
+  <text x="11" y="39.5" font-family="Arial, sans-serif" font-size="1.8" text-anchor="middle" fill="#000">22" × 10"</text>
+  
+  <!-- Leftover areas (cross-hatched pattern) -->
+  <!-- Bottom leftover (below left backsplash) -->
+  <rect x="0" y="42" width="22" height="12" 
+        fill="#e0e0e0" stroke="#999" stroke-width="0.3" opacity="0.5"/>
+  <pattern id="leftover-pattern" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+    <line x1="0" y1="0" x2="2" y2="2" stroke="#999" stroke-width="0.3"/>
+    <line x1="2" y1="0" x2="0" y2="2" stroke="#999" stroke-width="0.3"/>
+  </pattern>
+  <rect x="0" y="42" width="22" height="12" 
+        fill="url(#leftover-pattern)" stroke="#999" stroke-width="0.3"/>
+  <text x="11" y="48.5" font-family="Arial, sans-serif" font-size="1.5" text-anchor="middle" fill="#666" font-style="italic">Leftover</text>
+  <text x="11" y="50.5" font-family="Arial, sans-serif" font-size="1.3" text-anchor="middle" fill="#666">22" × 12"</text>
+  
+  <!-- Right side leftover (next to all pieces) -->
+  <rect x="22" y="32" width="20" height="22" 
+        fill="url(#leftover-pattern)" stroke="#999" stroke-width="0.3"/>
+  <text x="32" y="42.5" font-family="Arial, sans-serif" font-size="1.5" text-anchor="middle" fill="#666" font-style="italic">Leftover</text>
+  <text x="32" y="44.5" font-family="Arial, sans-serif" font-size="1.3" text-anchor="middle" fill="#666">20" × 22"</text>
+  
+  <!-- Large right side leftover -->
+  <rect x="42" y="0" width="27" height="54" 
+        fill="url(#leftover-pattern)" stroke="#999" stroke-width="0.3"/>
+  <text x="55.5" y="26.5" font-family="Arial, sans-serif" font-size="1.8" text-anchor="middle" fill="#666" font-style="italic">Leftover</text>
+  <text x="55.5" y="29" font-family="Arial, sans-serif" font-size="1.5" text-anchor="middle" fill="#666">27" × 54"</text>
+  
+  <!-- Cutting lines (dashed) -->
+  <line x1="0" y1="22" x2="42" y2="22" stroke="#ff0000" stroke-width="0.4" stroke-dasharray="2,1"/>
+  <line x1="0" y1="32" x2="42" y2="32" stroke="#ff0000" stroke-width="0.4" stroke-dasharray="2,1"/>
+  <line x1="22" y1="32" x2="22" y2="42" stroke="#ff0000" stroke-width="0.4" stroke-dasharray="2,1"/>
+  <line x1="42" y1="0" x2="42" y2="54" stroke="#ff0000" stroke-width="0.4" stroke-dasharray="2,1"/>
+  <line x1="0" y1="42" x2="22" y2="42" stroke="#ff0000" stroke-width="0.4" stroke-dasharray="2,1"/>
+  <line x1="22" y1="32" x2="42" y2="32" stroke="#ff0000" stroke-width="0.4" stroke-dasharray="2,1"/>
+  
+  <!-- Cut line legend -->
+  <line x1="2" y1="57" x2="6" y2="57" stroke="#ff0000" stroke-width="0.4" stroke-dasharray="2,1"/>
+  <text x="7" y="57.5" font-family="Arial, sans-serif" font-size="1.5" text-anchor="start" fill="#333">Cut line</text>
+  
+  <!-- Material dimensions (outside) -->
+  <!-- Width -->
+  <line x1="0" y1="56" x2="69" y2="56" stroke="#000" stroke-width="0.3"/>
+  <line x1="0" y1="55.5" x2="0" y2="56.5" stroke="#000" stroke-width="0.3"/>
+  <line x1="69" y1="55.5" x2="69" y2="56.5" stroke="#000" stroke-width="0.3"/>
+  <text x="34.5" y="58.5" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000" font-weight="bold">69"</text>
+  
+  <!-- Height -->
+  <line x1="72" y1="0" x2="72" y2="54" stroke="#000" stroke-width="0.3"/>
+  <line x1="71.5" y1="0" x2="72.5" y2="0" stroke="#000" stroke-width="0.3"/>
+  <line x1="71.5" y1="54" x2="72.5" y2="54" stroke="#000" stroke-width="0.3"/>
+  <text x="75" y="27" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 75 27)">54"</text>
+  
+  <!-- Usage summary -->
+  <text x="0" y="61" font-family="Arial, sans-serif" font-size="1.3" text-anchor="start" fill="#333" font-weight="bold">Total used area: 42" × 42" = 1,764 sq in</text>
+  <text x="0" y="63" font-family="Arial, sans-serif" font-size="1.3" text-anchor="start" fill="#333" font-weight="bold">Total material: 69" × 54" = 3,726 sq in</text>
+  <text x="45" y="61" font-family="Arial, sans-serif" font-size="1.3" text-anchor="start" fill="#666">Material utilization: 47.3%</text>
+  <text x="45" y="63" font-family="Arial, sans-serif" font-size="1.3" text-anchor="start" fill="#666">Leftover: 1,962 sq in</text>
+  
+</svg>
+
