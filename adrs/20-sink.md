@@ -30,7 +30,7 @@ We selected a vessel sink that can be used with a regular bathroom faucet instea
 
 ## References
 - Sink specifications: 20.88" W × 4.75" H × 14 3/16" D
-- Dimensions reference: `components/sink.png`
+- Dimensions reference: `components/vanity-sink.png`
 - Compatible with standard single-hole faucet mounting
 - Installation diagrams: `vanity_wall_option*.svg` files
 

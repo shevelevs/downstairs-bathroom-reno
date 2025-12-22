@@ -19,7 +19,7 @@ Key considerations:
 Implementing a **3-component shower system**:
 
 1. **Ceiling-Mounted Rain Shower Head** (10" × 10")
-   - Mounted on 10" ceiling arm
+   - Mounted on 10" ceiling arm, 24" from back wall
    - Square design for modern aesthetic
    - 10" size chosen as larger dimensions would be unreasonable given California GPM restrictions
 
@@ -31,6 +31,7 @@ Implementing a **3-component shower system**:
 3. **Hand Shower with Slide Bar**
    - 25.75" slide bar length
    - 60" flexible hose
+   - Hose elbow mounted at same height as diverter switch (48" from floor) for simplified rough plumbing (straight horizontal line from diverter to elbow)
    - Adjustable height allows different people to customize position
    - Compensates for fixed positioning of the other two heads
 
@@ -42,14 +43,11 @@ Implementing a **3-component shower system**:
 - Separation allows for better availability of aesthetically pleasing trim options
 - Both valves: 6.5" and 4.5" square trims respectively, matching head designs
 
-**Diverter Valve Options:**
-- Primary choice: **6-way diverter valve**
-  - Supports 3 components operating individually
-  - Supports 3 pairs operating simultaneously (rain + fixed, rain + hand, fixed + hand)
-  - If simultaneous operation violates California flow restrictions, will use 3-way diverter instead
-- Backup: **3-way diverter valve** (also ordered)
+**Diverter Valve:**
+- **3-way diverter valve**
   - Only one component active at a time
-  - Guaranteed to meet flow restrictions
+  - Guaranteed to meet California flow restrictions
+  - Simpler installation and operation
 
 ### Design Aesthetic
 
@@ -82,11 +80,15 @@ Implementing a **3-component shower system**:
    - Better control granularity
    - Easier to service individual components
 
-5. **6-way vs 3-way Diverter:**
-   - Ordered both to hedge against flow restriction uncertainty
-   - 6-way preferred for flexibility (e.g., rain + hand shower simultaneously)
-   - Will test actual flow rates to determine if simultaneous operation is viable
-   - Can fall back to 3-way if needed
+5. **3-way Diverter:**
+   - Ensures compliance with California flow restrictions
+   - Simpler operation (one component at a time)
+   - Adequate flexibility given that users typically prefer one shower mode at a time
+
+6. **Hand Shower Elbow Positioning:**
+   - Mounting elbow at same height as diverter simplifies rough plumbing
+   - Allows straight horizontal run from diverter to elbow
+   - Reduces installation complexity and potential leak points
 
 ## Consequences
 
@@ -99,35 +101,29 @@ Implementing a **3-component shower system**:
 
 ### Negative
 - More complex valve system increases installation cost
-- Need to verify simultaneous operation compliance (6-way diverter)
 - More components means more potential maintenance points
-- Ordered both diverter options, one will be unused
+- Cannot operate multiple shower heads simultaneously (single-user limitation)
 
 ## Open Questions
 
-1. Will simultaneous operation of two heads comply with California 2.0 GPM per head restriction?
-2. What is the combined GPM when multiple heads operate simultaneously?
-3. Should we install low-flow aerators/restrictors to ensure compliance?
+None at this time. Using 3-way diverter ensures compliance with all flow restrictions.
 
 ## References
 
-- [shower_faucets_wall.svg](../shower_faucets_wall.svg) - Technical layout and dimensions
-- [components/rain-shower-dimensions.png](../components/rain-shower-dimensions.png) - Rain shower specifications
+- [shower_faucets_wall_option2.svg](../shower_faucets_wall_option2.svg) - Technical layout and dimensions (current configuration)
+- [components/rain-shower-dimensions.png](../components/shower-rain-ceiling-head-dimensions.png) - Rain shower specifications
 - [components/shower-valve-dimensions.png](../components/shower-valve-dimensions.png) - Mixer valve specifications
 - [components/shower-diverter-dimensions.png](../components/shower-diverter-dimensions.png) - Diverter valve specifications
-- [components/hand-shower-dimensions.png](../components/hand-shower-dimensions.png) - Hand shower and slide bar specifications
+- [components/hand-shower-dimensions.png](../components/shower-hand-kit-dimensions.png) - Hand shower and slide bar specifications
 
 ## Notes
 
 California shower head flow regulation: Maximum 2.0 gallons per minute (GPM) per shower head at 80 psi.
 
-The 6-way diverter valve provides the following positions:
+The 3-way diverter valve provides the following positions:
 1. Rain shower only
 2. Fixed head only
 3. Hand shower only
-4. Rain + Fixed simultaneously
-5. Rain + Hand simultaneously
-6. Fixed + Hand simultaneously
 
-If testing shows simultaneous operation exceeds flow limits, the 3-way diverter will be installed instead, allowing only one component at a time.
+Plumbing layout: The hand shower elbow is positioned at 48" from floor (same height as diverter center), allowing a straight horizontal pipe run from the diverter to the elbow outlet. This simplifies rough plumbing and reduces the number of pipe fittings required.
 
