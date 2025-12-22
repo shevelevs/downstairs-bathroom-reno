@@ -1,13 +1,20 @@
-Make a rendering of the vanity in the corner according to the attached architectural drawings
+Make a rendering of the vanity according to the attached architectural drawings
 and photos of the actual components/materials. 
 
 Make sure to
 
 * take into account all dimensions, alignments etc.
 * use the actual components from the respective photos, for example do not try to change the
-  vanity by adding more drawers than present in the photos
+  vanity by adding more drawers than present in the photos or try to make the vanity L-shaped,
+  use the exact vanity shape from the provided photos with dimensions specific in the drawings
+* obey the height of the backsplash and position of the electric receptacle, these
+  details are important
 
-Note that the sink is a vessel sink, and it is not centered over the vanity,
-it is centered over the left side of it (over the "large drawers").
+Note that
+
+* the sink is a vessel sink
+* the sink is not centered over the vanity, instead it is centered over the the "large drawers"
+  side of the vanity
+* the vanity is adjacent to 2 walls, on the left and on the back of the vanity
 
 You can pick wall colors as they are not known yet and are not in the photos.
