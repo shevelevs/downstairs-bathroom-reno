@@ -7,7 +7,7 @@ Make sure to
 * use the actual components from the respective photos, for example do not try to change the
   vanity by adding more drawers than present in the photos or try to make the vanity L-shaped,
   use the exact vanity shape from the provided photos with dimensions specific in the drawings
-* obey the height of the backsplash and position of the electric receptacle, these
+* obey the height of the backsplash and position of the electric outlet, these
   details are important
 
 Note that
@@ -16,5 +16,6 @@ Note that
 * the sink is not centered over the vanity, instead it is centered over the the "large drawers"
   side of the vanity
 * the vanity is adjacent to 2 walls, on the left and on the back of the vanity
+* there's a 3'' filler of the matching color between the vanity and the left wall 
 
 You can pick wall colors as they are not known yet and are not in the photos.

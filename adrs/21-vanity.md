@@ -62,5 +62,5 @@ We preferred the toekick design over exposed leg styles because:
 - Left section (large drawers): 22.5" wide
 - Right section (small drawers): 13.5" wide
 - Gaps: 2" (left edge, between sections, right edge)
-- Installation diagrams: `vanity_wall_option*.svg` files show 6 layout options
+- Installation diagrams: `vanity_front_view_option*.svg` files show various layout options
 

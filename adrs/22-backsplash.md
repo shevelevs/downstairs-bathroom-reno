@@ -73,8 +73,8 @@ Reference designs show various configurations:
 5. Is there flexibility on the ~4" counter clearance requirement?
 
 ## References
-- Design options with dimensions: `vanity_wall_option1.svg` through `vanity_wall_option6.svg`
-- Exported visualizations: `exports/vanity_wall_option*.png`
+- Design options with dimensions: `vanity_front_view_option1.svg` through `vanity_front_view_option9.svg`
+- Exported visualizations: `exports/vanity_front_view_option*.png`
 - Material size: 69" × 54"
 - Vanity width: 42"
 - Receptacle location: Over 13.5" right section (small drawers)

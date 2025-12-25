@@ -60,8 +60,8 @@ Key constraints and considerations:
 
 ## References
 
-- [medicine_cabinet_wall.svg](../medicine_cabinet_wall.svg) - Initial wall layout showing vanity extension
-- [vanity_wall_option*.svg](../vanity_wall_option7.svg) - Vanity wall designs with mirror
+- [vanity_side_view.svg](../vanity_side_view.svg) - Side view showing vanity extension and wall layout
+- [vanity_front_view_option*.svg](../vanity_front_view_option7.svg) - Vanity front view designs with mirror
 
 ## Notes
 

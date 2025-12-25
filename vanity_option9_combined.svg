@@ -1,0 +1,149 @@
+<svg viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg" style="border: 1px solid #ccc; background: white;">
+  
+  <!-- Title -->
+  <text x="140" y="15" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#0066cc" font-weight="bold">Vanity Option 9 - Complete Views</text>
+  <text x="140" y="25" font-family="Arial, sans-serif" font-size="4" text-anchor="middle" fill="#666" font-style="italic">(6" Backsplash, 3" Filler Extension, 16" Medicine Cabinet)</text>
+  
+  <!-- Plan View (centered on top) -->
+  <g transform="translate(100, 35)">
+    <text x="40" y="-5" font-family="Arial, sans-serif" font-size="5" text-anchor="middle" fill="#0066cc" font-weight="bold">PLAN VIEW</text>
+    
+    <!-- Plan view content -->
+    <line x1="-3" y1="0" x2="-3" y2="30" stroke="#333" stroke-width="0.8"/>
+    <text x="-5" y="15" font-family="Arial, sans-serif" font-size="1.5" text-anchor="middle" fill="#666" transform="rotate(-90 -5 15)">Wall</text>
+    
+    <line x1="-3" y1="0" x2="42" y2="0" stroke="#333" stroke-width="0.8"/>
+    <text x="19.5" y="-2" font-family="Arial, sans-serif" font-size="1.5" text-anchor="middle" fill="#666">Vanity Wall</text>
+    
+    <rect x="-3" y="0" width="3" height="21.5" fill="#c8b896" stroke="#666" stroke-width="0.4" opacity="0.6"/>
+    <text x="-1.5" y="11" font-family="Arial, sans-serif" font-size="1.2" text-anchor="middle" fill="#555" transform="rotate(-90 -1.5 11)">Filler</text>
+    
+    <rect x="0" y="0" width="42" height="21.5" fill="#d4b896" stroke="#666" stroke-width="0.4" opacity="0.6"/>
+    
+    <rect x="2" y="1" width="22.5" height="20.5" fill="#c4a886" stroke="#666" stroke-width="0.3" opacity="0.8"/>
+    <text x="13.25" y="11" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#333">Large Drawers</text>
+    
+    <rect x="26.5" y="1" width="13.5" height="20.5" fill="#c4a886" stroke="#666" stroke-width="0.3" opacity="0.8"/>
+    <text x="33.25" y="11" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#333">Small Drawers</text>
+    
+    <rect x="-3" y="0" width="45" height="22" fill="#f5f5dc" stroke="#666" stroke-width="0.4" fill-opacity="0.5"/>
+    
+    <rect x="-3" y="0" width="45" height="1.25" fill="#d5e8d4" stroke="#666" stroke-width="0.3"/>
+    <text x="19.5" y="0.8" font-family="Arial, sans-serif" font-size="1" text-anchor="middle" fill="#555">Backsplash</text>
+    
+    <rect x="-3" y="0" width="1.25" height="22" fill="#d5e8d4" stroke="#666" stroke-width="0.3"/>
+    
+    <rect x="2.81" y="3.875" width="20.88" height="14.1875" fill="#c0e0ff" stroke="#333" stroke-width="0.4"/>
+    <text x="13.25" y="11.5" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#006699" font-weight="bold">SINK</text>
+    
+    <circle cx="13.25" cy="6.0" r="0.5" fill="#999" stroke="#666" stroke-width="0.2"/>
+    <text x="13.25" y="4.5" font-family="Arial, sans-serif" font-size="1" text-anchor="middle" fill="#666">Faucet</text>
+    
+    <!-- Plan view dimensions -->
+    <line x1="-3" y1="25" x2="42" y2="25" stroke="#000" stroke-width="0.3"/>
+    <line x1="-3" y1="24.5" x2="-3" y2="25.5" stroke="#000" stroke-width="0.3"/>
+    <line x1="42" y1="24.5" x2="42" y2="25.5" stroke="#000" stroke-width="0.3"/>
+    <text x="19.5" y="27.5" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#000" font-weight="bold">45"</text>
+    
+    <line x1="45" y1="0" x2="45" y2="22" stroke="#000" stroke-width="0.3"/>
+    <line x1="44.5" y1="0" x2="45.5" y2="0" stroke="#000" stroke-width="0.3"/>
+    <line x1="44.5" y1="22" x2="45.5" y2="22" stroke="#000" stroke-width="0.3"/>
+    <text x="48" y="11" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 48 11)">22"</text>
+  </g>
+  
+  <!-- Front View (bottom left) -->
+  <g transform="translate(30, 135) scale(0.9)">
+    <text x="21" y="-5" font-family="Arial, sans-serif" font-size="5" text-anchor="middle" fill="#0066cc" font-weight="bold">FRONT VIEW</text>
+    
+    <!-- Front view content (simplified, key elements only) -->
+    <rect x="-3" y="0" width="45" height="96" fill="none" stroke="#333" stroke-width="0.5"/>
+    <line x1="-3" y1="0" x2="-3" y2="96" stroke="#333" stroke-width="1.5"/>
+    
+    <rect x="-3" y="61.5" width="3" height="34.5" fill="#c8b896" stroke="#666" stroke-width="0.3"/>
+    <rect x="0" y="61.5" width="42" height="34.5" fill="#e8e8e8" stroke="#666" stroke-width="0.3"/>
+    <rect x="2" y="61.5" width="22.5" height="34.5" fill="#d0d0d0" stroke="#555" stroke-width="0.25"/>
+    <rect x="26.5" y="61.5" width="13.5" height="34.5" fill="#d0d0d0" stroke="#555" stroke-width="0.25"/>
+    
+    <rect x="1" y="18.25" width="40" height="30" fill="#d0f0ff" stroke="#333" stroke-width="0.4"/>
+    <text x="21" y="33.5" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#006699" font-weight="bold">MIRROR</text>
+    
+    <rect x="-3" y="54.25" width="45" height="6" fill="#d5e8d4" stroke="#666" stroke-width="0.3"/>
+    <rect x="-3" y="60.25" width="45" height="1.25" fill="#f5f5dc" stroke="#666" stroke-width="0.3"/>
+    
+    <rect x="2.81" y="55.5" width="20.88" height="4.75" fill="#c0e0ff" stroke="#333" stroke-width="0.3"/>
+    <text x="8" y="58" font-family="Arial, sans-serif" font-size="1.5" text-anchor="middle" fill="#004080" font-weight="bold">SINK</text>
+    
+    <!-- Faucet -->
+    <rect x="12.5" y="55.3" width="1.5" height="0.2" fill="#999" stroke="#666" stroke-width="0.2"/>
+    <rect x="12.8" y="50.5" width="0.4" height="4.8" fill="#999" stroke="#666" stroke-width="0.2"/>
+    <rect x="12.5" y="48.5" width="1" height="2" fill="#999" stroke="#666" stroke-width="0.2"/>
+    <circle cx="13" cy="49.5" r="0.4" fill="#888" stroke="#666" stroke-width="0.15"/>
+    
+    <text x="21" y="88" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#333" font-weight="bold">VANITY</text>
+    
+    <!-- Key dimensions -->
+    <line x1="-3" y1="102" x2="42" y2="102" stroke="#000" stroke-width="0.3"/>
+    <line x1="-3" y1="101" x2="-3" y2="103" stroke="#000" stroke-width="0.3"/>
+    <line x1="42" y1="101" x2="42" y2="103" stroke="#000" stroke-width="0.3"/>
+    <text x="19.5" y="105" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#000" font-weight="bold">45"</text>
+    
+    <line x1="48" y1="0" x2="48" y2="96" stroke="#000" stroke-width="0.3"/>
+    <line x1="47" y1="0" x2="49" y2="0" stroke="#000" stroke-width="0.3"/>
+    <line x1="47" y1="96" x2="49" y2="96" stroke="#000" stroke-width="0.3"/>
+    <text x="53" y="48" font-family="Arial, sans-serif" font-size="3" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 53 48)">96"</text>
+  </g>
+  
+  <!-- Side View (bottom right) -->
+  <g transform="translate(165, 135) scale(0.9)">
+    <text x="32.5" y="-5" font-family="Arial, sans-serif" font-size="5" text-anchor="middle" fill="#0066cc" font-weight="bold">SIDE VIEW</text>
+    
+    <!-- Side view content (simplified, key elements only) -->
+    <rect x="0" y="0" width="65" height="96" fill="none" stroke="#333" stroke-width="0.5"/>
+    
+    <rect x="43.5" y="61.5" width="21.5" height="34.5" fill="#d4b896" stroke="#666" stroke-width="0.4" opacity="0.6"/>
+    <text x="54.25" y="78.75" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#666" font-style="italic">Vanity</text>
+    
+    <rect x="63.75" y="18.25" width="1.625" height="30" fill="#d0f0ff" stroke="#333" stroke-width="0.3"/>
+    <text x="67" y="33.25" font-family="Arial, sans-serif" font-size="1.5" text-anchor="start" fill="#006699" font-weight="bold">MIRROR</text>
+    
+    <rect x="43" y="18.25" width="16" height="30" fill="#f5e6d3" stroke="#666" stroke-width="0.4"/>
+    <text x="51" y="33.25" font-family="Arial, sans-serif" font-size="1.8" text-anchor="middle" fill="#666" font-weight="bold">MEDICINE</text>
+    <text x="51" y="35.75" font-family="Arial, sans-serif" font-size="1.8" text-anchor="middle" fill="#666" font-weight="bold">CABINET</text>
+    
+    <rect x="63.75" y="54.25" width="1.25" height="6" fill="#d5e8d4" stroke="#666" stroke-width="0.3"/>
+    <rect x="43" y="54.25" width="20.75" height="6" fill="#d5e8d4" stroke="#666" stroke-width="0.3"/>
+    
+    <rect x="43" y="60.25" width="22" height="1.25" fill="#f5f5dc" stroke="#666" stroke-width="0.3"/>
+    
+    <rect x="47.16" y="55.5" width="14.19" height="4.75" fill="#c0e0ff" stroke="#333" stroke-width="0.3"/>
+    <text x="54.25" y="58.25" font-family="Arial, sans-serif" font-size="1.8" text-anchor="middle" fill="#006699" font-weight="bold">SINK</text>
+    
+    <!-- Faucet -->
+    <rect x="58.475" y="55.3" width="1.5" height="0.2" fill="#999" stroke="#666" stroke-width="0.2"/>
+    <rect x="59.025" y="50.5" width="0.4" height="4.8" fill="#999" stroke="#666" stroke-width="0.2"/>
+    <rect x="58.725" y="48.5" width="1" height="2" fill="#999" stroke="#666" stroke-width="0.2"/>
+    <circle cx="59.225" cy="49.5" r="0.4" fill="#888" stroke="#666" stroke-width="0.15"/>
+    
+    <!-- Key dimensions -->
+    <line x1="0" y1="102" x2="65" y2="102" stroke="#000" stroke-width="0.3"/>
+    <line x1="0" y1="101" x2="0" y2="103" stroke="#000" stroke-width="0.3"/>
+    <line x1="65" y1="101" x2="65" y2="103" stroke="#000" stroke-width="0.3"/>
+    <text x="32.5" y="105" font-family="Arial, sans-serif" font-size="2.5" text-anchor="middle" fill="#000" font-weight="bold">65"</text>
+    
+    <line x1="-10" y1="0" x2="-10" y2="96" stroke="#000" stroke-width="0.3"/>
+    <line x1="-9" y1="0" x2="-11" y2="0" stroke="#000" stroke-width="0.3"/>
+    <line x1="-9" y1="96" x2="-11" y2="96" stroke="#000" stroke-width="0.3"/>
+    <text x="-13" y="48" font-family="Arial, sans-serif" font-size="3" text-anchor="middle" fill="#000" font-weight="bold" transform="rotate(-90 -13 48)">96"</text>
+    
+    <!-- Medicine cabinet dimension -->
+    <line x1="43" y1="13" x2="59" y2="13" stroke="#000" stroke-width="0.3"/>
+    <line x1="43" y1="12.5" x2="43" y2="13.5" stroke="#000" stroke-width="0.3"/>
+    <line x1="59" y1="12.5" x2="59" y2="13.5" stroke="#000" stroke-width="0.3"/>
+    <text x="51" y="11" font-family="Arial, sans-serif" font-size="2" text-anchor="middle" fill="#000" font-weight="bold">16"</text>
+  </g>
+  
+  <!-- Footer note -->
+  <text x="140" y="272" font-family="Arial, sans-serif" font-size="3.5" text-anchor="middle" fill="#666" font-style="italic">Note: All dimensions shown in inches unless otherwise noted</text>
+  
+</svg>
+
